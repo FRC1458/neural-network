@@ -7,7 +7,7 @@ public static void main(String args[]){
     System.out.println("Hello World");
     
     for (int i = 0; i < BELUGA_WHALE_SWIM_RATE % 10; i++) {
-    System.out.println("Beluga Whale #" + i + 1);
+    System.out.println("I love Beluga WHales! #" + i + 1);
     }
 }
 }
